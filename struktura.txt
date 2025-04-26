@@ -1,0 +1,21 @@
+freightline/
+├── bot.py
+├── .env
+├── requirements.txt
+├── database/
+│   └── db.py
+├── handlers/
+│   ├── start.py
+│   └── carrier_menu.py
+├── keyboards/
+│   └── inline.py
+├── models/
+│   ├── user.py
+│   ├── truck.py
+│   └── cargo.py
+├── services/
+│   └── truck_service.py
+├── utils/
+│   ├── states.py
+│   └── logger.py
+└── README.md
